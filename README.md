@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AK-ALiEN/HttpCanary/refs/heads/main/src/icon.png" width="128" alt="HttpCanary" />
+</p>
+
+  <h1 align="center">HttpCanary</h1>
+
+<p align="center">
+  <strong>A mobile app for capturing and analyzing HTTP/HTTPS network traffic in real time.</strong><br/>
+  Capture network traffic. Inspect requests and responses. Debug APIs and apps. <br/>
+  All from your Android device in real time.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AK-ALiEN/HttpCanary/releases">
+    <img src="https://img.shields.io/github/downloads/AK-ALiEN/HttpCanary/total?style=flat&color=blue" alt="Downloads" />
+  </a>
+  <a href="https://github.com/AK-ALiEN/HttpCanary/releases/latest">
+    <img src="https://img.shields.io/github/v/release/AK-ALiEN/HttpCanary?style=flat" alt="Release" />
+  </a>
+  <a href="https://github.com/AK-ALiEN/HttpCanary/stargazers">
+    <img src="https://img.shields.io/github/stars/AK-ALiEN/HttpCanary?style=flat" alt="Stars" />
+  </a>
+</p>
+
+<br />
+
 # HttpCanary Installation Guide for Non-Rooted Android 11/12 Devices
 
 This guide provides step-by-step instructions to install HttpCanary with the necessary certificates on non-rooted Android devices running versions 11 or 12.
